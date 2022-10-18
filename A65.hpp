@@ -1,11 +1,14 @@
-//
-
-#include <iomanip>
 #include <iostream>
 using namespace std;
 
-// complete two functions
-// swap() ; to swap all three values like (a, b, c) to (c, a, b)
-//              This function will use swaptwo().
+int main()
+{
+    int num1, num2, num3; 
+    int print; 
 
-// swaptwo() ; to swap two values (a, b) to (b, a)
+    void getinput(int num1, int num2, int num3);
+    void swap(int num1, int num2, int num3); 
+    print swap; 
+
+}
+ 
